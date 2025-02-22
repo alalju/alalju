@@ -1,9 +1,9 @@
-<svg width="100%" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="150" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Fondo del escenario -->
-  <rect width="400" height="200" fill="#87CEEB"/> <!-- Cielo azul -->
+  <rect width="100%" height="200" fill="#87CEEB"/> <!-- Cielo azul -->
 
   <!-- Suelo -->
-  <rect y="150" width="400" height="50" fill="#654321"/> <!-- Marrón -->
+  <rect y="150" width="100%" height="50" fill="#654321"/> <!-- Marrón -->
 </svg>
 
 
