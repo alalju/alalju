@@ -6,8 +6,9 @@
   <rect y="150" width="400" height="50" fill="#654321"/> <!-- Marrón -->
 
   <!-- Mario (usando un sprite externo) -->
-  <image href="https://upload.wikimedia.org/wikipedia/en/5/50/Super_Mario.png" 
-         x="20" y="100" width="40" height="50">
+  <p align="center">
+    <img src="https://gifer.com/embed/ZaiM" width="400">
+  </p>
     <animateTransform attributeType="XML" attributeName="transform" type="translate"
                       from="20,0" to="300,0" dur="2s" repeatCount="indefinite"/>
   </image>
